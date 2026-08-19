@@ -43,7 +43,7 @@ x-enrichment-note: >-
   documents exist. api.kickpay.com / developer.kickpay.com / docs.kickpay.com /
   status.kickpay.com do not resolve. Identity/completeness pass only; no
   artifacts were generated.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
