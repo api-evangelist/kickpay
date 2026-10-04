@@ -59,7 +59,7 @@ created: '2026-07-17'
 modified: '2026-07-19'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Lending
 - Inventory Financing
@@ -75,6 +75,7 @@ tags_raw:
 - E-commerce
 - Supply Chain Finance
 - Working Capital
+- Financial-Services
 apis: []
 common:
 - type: Website
